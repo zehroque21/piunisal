@@ -1,0 +1,27 @@
+mat-toolbar{
+    z-index: 9000;
+    position: absolute;
+    top: 0;
+}
+
+.mat-toolbar{
+    background-color: #19647E;
+    color: #ffffff;
+}
+
+.toolbarDiv{
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#app-title{
+    font-size: 1.1em;
+    margin-top: 5px;
+    letter-spacing: 1.5px;
+}
+
+.mat-toolbar mat-icon{
+    font-size: 35px;
+    padding-top: 0;
+}
